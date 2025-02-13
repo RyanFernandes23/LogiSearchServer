@@ -1,1 +1,1 @@
-# LogiSearchClient
+# LogiSearchServer

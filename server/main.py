@@ -18,8 +18,10 @@ ddgs = DDGS()
 
 # Allow your frontend origin
 origins = [
-    "http://192.168.29.125:3000",  # Your frontend URL
-    "http://localhost:3000",       # Optional: Allow localhost for development
+    "http://192.168.29.125:3000",# Your frontend URL
+    "http://localhost:3000",
+    "https://logi-search-client.vercel.app",
+    "https://logi-search-client.vercel.app/Chat"
 ]
 
 app.add_middleware(

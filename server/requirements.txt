@@ -8,3 +8,4 @@ python-dotenv
 Requests
 uvicorn
 sentence-transformers
+python-multipart
